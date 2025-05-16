@@ -11,9 +11,11 @@ This work constitutes a **multiclass classification** task, aiming to categorize
 ## How to run this file ?
 
 **Step 1**
+
 unzip/extract zip file and open in vscode
 
 **Step 2**
+
 Setup the Enviormrent 
 ```bash
 conda create -m breast python=3.10
