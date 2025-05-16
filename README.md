@@ -12,6 +12,7 @@ This work constitutes a **multiclass classification** task, aiming to categorize
 
 **Step 1**
 unzip/extract zip file and open in vscode
+
 **Step 2**
 Setup the Enviormrent 
 ```bash
